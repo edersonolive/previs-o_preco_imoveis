@@ -4,4 +4,6 @@ Projeto desenvolvido para prever o valor de casas a partir de um dataset de 69 v
 
 Utilizei o projeto "Sales Price Prediction - Complete Workflow" como referência, do Gustavo Felici, disponível do Kaggle. A partir dele, fiz adaptações e modificações para obter boas previsões para esse conjunto de dados.
 
+Link para dataset: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+
 Status: em andamento.
